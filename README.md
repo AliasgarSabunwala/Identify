@@ -1,2 +1,2 @@
 # Identify
-Identify Management System written in Core Java and MySQL Server
+Identity Management System written in Core Java and MySQL Server
